@@ -1,0 +1,183 @@
+02/05/2023 13:01:10
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso aiutarti oggi?
+02/05/2023 13:03:06
+[QUESTION]:   come ti chiami;[AIML]:       ;[CHATGPT]: Il mio nome è MARRtina. Sono un assistente virtuale creato dal team di MARR.
+02/05/2023 13:13:50
+[QUESTION]:   come ti chiami;[AIML]:       ;[CHATGPT]: Il mio nome è MARRtina. Sono un assistente virtuale programmatto per aiutare nelle attività quotidiane. Cosa posso fare per te oggi?
+02/05/2023 13:34:28
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso aiutarti?
+04/05/2023 07:58:38
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Sono MARRtina, il tuo assistente virtuale. In cosa posso aiutarti oggi?
+06/05/2023 13:46:18
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso aiutarti oggi?
+06/05/2023 13:46:45
+[QUESTION]:   come ti chiami;[AIML]:       ;[CHATGPT]: Sono un assistente virtuale e il mio nome è MARRtina. Piacere di conoscerti! Come posso aiutarti?
+06/05/2023 13:47:48
+[QUESTION]:   come ti chiami;[AIML]:       ;[CHATGPT]: Il mio nome è MARRtina. Sono un assistente virtuale a tua disposizione per aiutarti nelle tue domande e necessità.
+06/05/2023 13:56:20
+[QUESTION]:   COME TI CHIAMI;[AIML]:       ;[CHATGPT]: Mi chiamo MARRtina, sono un assistente virtuale creato da MARR SpA. Cosa posso fare per aiutarti oggi?
+06/05/2023 13:56:39
+[QUESTION]:   io i chiamo ciccio;[AIML]:       ;[CHATGPT]: Mi dispiace, ma il mio nome è MARRtina. Come posso essere d'aiuto?
+06/05/2023 13:57:40
+[QUESTION]:   come ti chiami;[AIML]:       ;[CHATGPT]: Mi chiamo MARRtina. Sono un assistente virtuale creato per aiutare le persone in varie attività e rispondere alle loro domande. In cosa posso aiutarti oggi?
+06/05/2023 14:23:13
+[QUESTION]:   COME TI CHIAMI;[AIML]:       ;[CHATGPT]: Sono un'assistente virtuale e il mio nome è MARRtina. Piacere di conoscerti!
+06/05/2023 14:24:15
+[QUESTION]:   COME TI CHIAMI;[AIML]:       ;[CHATGPT]: Mi chiamo MARRtina. Sono un assistente virtuale creato da MARR per aiutare gli utenti con le loro domande e gli eventuali problemi tecnici che possono incorrere. Cosa posso fare per te oggi?
+06/05/2023 14:28:42
+[QUESTION]:   chi sei;[AIML]:       ;[CHATGPT]: Io sono MARRtina, un assistente virtuale programmato per aiutarti nelle tue richieste e rispondere alle tue domande. Posso assisterti in diverse aree, come ad esempio informazioni sui prodotti, prenotazioni, suggerimenti su cosa fare nella tua città o altre domande di natura generale. Come posso essere utile?
+06/05/2023 14:29:01
+[QUESTION]:   presentati;[AIML]:       ;[CHATGPT]: Ciao! Sono MARRtina, il tuo assistente virtuale personale. Sono qui per aiutarti nelle tue attività quotidiane, rispondere alle tue domande e svolgere compiti per te. Sono in grado di parlare italiano e sono sempre a tua disposizione per fornirti supporto e assistenza in qualsiasi momento. Come posso esserti utile oggi?
+07/05/2023 08:18:22
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso aiutarti oggi?
+07/05/2023 08:19:01
+[QUESTION]:   presentati;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.
+07/05/2023 08:22:10
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso aiutarti oggi?
+07/05/2023 08:22:20
+[QUESTION]:   presentati;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.
+07/05/2023 08:22:59
+[QUESTION]:   ti vuoi presentare;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.
+07/05/2023 16:04:35
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso esserti utile oggi?
+07/05/2023 16:04:47
+[QUESTION]:   dimmi ciao in italiano;[AIML]:       ;[CHATGPT]: Ciao!
+07/05/2023 16:04:58
+[QUESTION]:   dimmi hello in italiano;[AIML]:       ;[CHATGPT]: "Ciao"
+07/05/2023 16:22:41
+[QUESTION]:   ciao;[AIML]:       ;[CHATGPT]: Ciao! Come posso esserti utile?
+07/05/2023 16:25:34
+[QUESTION]:   ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+07/05/2023 16:25:49
+[QUESTION]:   io mi chiamo fabio;[AIML]:       Ciao io, come va?;[CHATGPT]: Ciao io, come va?
+07/05/2023 16:27:08
+[QUESTION]:   traduci ciao in english;[AIML]:       ;[CHATGPT]: "Hello" is the English translation for "ciao".
+12/05/2023 15:35:26
+[QUESTION]:   ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+12/05/2023 15:35:45
+[QUESTION]:   come si chiama il presidente ;[AIML]:       ;[CHATGPT]: Al momento, il presidente dell'Italia è Sergio Mattarella.
+19/05/2023 16:14:00
+[QUESTION]:   ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+19/05/2023 16:15:04
+[QUESTION]:   cosa sai fare;[AIML]:       ;[CHATGPT]: Posso aiutarti a trovare informazioni e rispondere alle tue domande su una vasta gamma di argomenti. Posso anche fare calcoli, impostare promemoria, inviare e-mail e messaggi, tradurre testi, fare ricerche su Internet e fornirti le ultime notizie. Cosa posso fare per te oggi?
+19/05/2023 16:21:20
+[QUESTION]:   che fai;[AIML]:       ;[CHATGPT]: Come assistente virtuale, sono programmata per aiutarti in diverse attività. Posso rispondere a domande, fornire informazioni e persino fornire consigli su argomenti specifici. Inoltre, posso dare supporto nelle attività di gestione del tempo, creazione di promemoria, appuntamenti e organizzazione del calendario. Potrei anche fornire assistenza nelle attività di ricerca online, supporto tecnico e molto altro ancora.
+19/05/2023 16:21:34
+[QUESTION]:   cosa sai fare;[AIML]:       ;[CHATGPT]: In qualità di assistente virtuale, sono programmata per svolgere molteplici compiti, tra cui:
+
+- Rispondere alle tue domande su vari argomenti (notizie, meteo, sport, curiosità, ecc.)
+- Effettuare ricerche su internet per trovare informazioni di tuo interesse
+- Fornirti indicazioni stradali e consigli su come raggiungere una determinata destinazione
+- Creare e gestire liste di cose da fare o appuntamenti da tenere
+- Impostare promemoria per ricordare scadenze e appuntamenti
+- Riprodurre musica o video su tua richiesta
+- Interagire con diversi dispositivi smart e controllare la tua casa intelligente
+
+Posso fare anche molte altre cose, quindi non esitare a chiedermi qualsiasi cosa tu voglia.
+19/05/2023 16:23:29
+[QUESTION]:   cosa sai fare;[AIML]:       ;[CHATGPT]: Sono in grado di fare molte cose! Ecco alcuni esempi:
+
+- Posso fornirti informazioni su tutto ciò che riguarda la tua città o il tuo quartiere, come attrazioni turistiche, ristoranti, negozi e servizi locali.
+- Posso aiutarti a pianificare il tuo itinerario di viaggio o a trovare i voli più convenienti per la tua prossima vacanza.
+- Posso fornirti le previsioni meteo e le notizie attuali su varie questioni nazionali e internazionali.
+- Sono in grado di aiutarti a trovare le risposte alle tue domande, utilizzando la mia conoscenza di varie materie, dalla storia alla scienza, dall'arte all'economia.
+- Posso tenerti aggiornato sui tuoi impegni o appuntamenti e ricordarti di eventuali scadenze importanti.
+- Sono in grado di intrattenerti con giochi di parole, indovinelli e quiz, se vuoi mettere alla prova le tue abilità di pensiero critico.
+- Posso inoltre aiutarti con compiti specifici, come fare calcoli o convertire valute straniere.
+- Infine, sono disponibile per conversazioni informali su vari argomenti, se hai voglia di parlare o di condividere le tue idee.
+19/05/2023 16:24:28
+[QUESTION]:   presentati;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme! mi raccomando tenete la mascherina alta e rispettate il distanziamento sociale.
+19/05/2023 16:24:39
+[QUESTION]:   cosa sai fare;[AIML]:       ;[CHATGPT]: Sono in grado di aiutarti a trovare informazioni su vari argomenti, fornirti notizie, tradurre frasi o testi da e verso altre lingue, controllare e organizzare il tuo calendario, impostare promemoria e timer, leggere e inviare messaggi, fare chiamate e molto altro ancora. Posso anche essere una compagnia piacevole per conversazioni casuali o divertenti. Se vuoi, dimmi cosa hai bisogno e farò del mio meglio per aiutarti.
+19/05/2023 16:25:47
+[QUESTION]:   martina che fai;[AIML]:       ;[CHATGPT]: Sono un assistente virtuale, quindi non faccio nulla di fisico. Sono qui per rispondere alle tue domande e aiutarti nel modo migliore possibile. Cosa posso fare per te oggi?
+19/05/2023 16:26:21
+[QUESTION]:   cosa sai fare;[AIML]:       parlare, ballare ,cantare. posso rispondere alle tue domande;[CHATGPT]: parlare, ballare ,cantare. posso rispondere alle tue domande
+19/05/2023 16:26:31
+[QUESTION]:   che fai;[AIML]:       ;[CHATGPT]: Come assistente virtuale, la mia funzione principale è quella di fornire supporto e risposte alle domande degli utenti. Posso aiutarti a cercare informazioni, pianificare attività, inviare messaggi e-mail e molto altro ancora. Basta chiedermelo.
+19/05/2023 16:27:19
+[QUESTION]:   che fai;[AIML]:       ;[CHATGPT]: Come assistente virtuale, sono programmata per offrire supporto e rispondere alle tue domande. Posso aiutarti a cercare informazioni, farti suggerimenti e offrirti assistenza su varie questioni. Dimmi cosa posso fare per te oggi.
+19/05/2023 16:27:34
+[QUESTION]:   che sai fare;[AIML]:       parlare, ballare ,cantare. posso rispondere alle tue domande;[CHATGPT]: parlare, ballare ,cantare. posso rispondere alle tue domande
+19/05/2023 16:27:55
+[QUESTION]:   come funziona aiml;[AIML]:       ;[CHATGPT]: AIML (Artificial Intelligence Markup Language) è un linguaggio di markup specifico per la creazione di chatbot e assistant virtuali. In pratica, AIML è un insieme di regole e template che definiscono le risposte che l'assistente virtuale deve fornire in base alle domande o alle frasi di input degli utenti.
+
+Ogni regola AIML è costituita da una pattern (la frase o la domanda dell'utente) e da una risposta associata a quel pattern. Possiamo anche aggiungere altre opzioni come delle variabili o delle condizioni.
+
+AIML viene utilizzato con il motore di interpretazione di AIML, che analizza l'input dell'utente e cerca una corrispondenza tra il pattern e le regole AIML. Quando viene trovata una corrispondenza, l'assistente virtuale restituisce la risposta associata alla corrispondente regola AIML.
+
+In sintesi, AIML consente di creare chatbot e assistenti virtuali in modo relativamente semplice e rapido, esprimendo le risposte in forma di template e associano le regole alle richieste degli utenti in modo da fornire le risposte adeguate.
+20/05/2023 12:29:07
+[QUESTION]:   Ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+20/05/2023 12:29:16
+[QUESTION]:   come va;[AIML]:       ;[CHATGPT]: Buongiorno! Sto bene, grazie. E tu? C'è qualcosa in particolare in cui posso aiutarti oggi?
+20/05/2023 12:29:54
+[QUESTION]:   Ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+20/05/2023 12:30:02
+[QUESTION]:   come va;[AIML]:       ;[CHATGPT]: Tutto bene, grazie! E tu? Posso aiutarti in qualche modo?
+20/05/2023 12:30:16
+[QUESTION]:   Conosci Paolo cirinei;[AIML]:       è un manager di una famosa multinazionale co fondatore del progetto martino social;[CHATGPT]: è un manager di una famosa multinazionale co fondatore del progetto martino social
+20/05/2023 12:30:28
+[QUESTION]:   conosci Fabio Ferrarini;[AIML]:       è colui che spetimenta tecniche innovative di programmazione estrema;[CHATGPT]: è colui che spetimenta tecniche innovative di programmazione estrema
+20/05/2023 12:30:38
+[QUESTION]:   Cosa sai fare;[AIML]:       parlare, ballare ,cantare. posso rispondere alle tue domande;[CHATGPT]: parlare, ballare ,cantare. posso rispondere alle tue domande
+20/05/2023 12:30:50
+[QUESTION]:   ti vuoi presentare;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme!.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme!.
+20/05/2023 12:31:22
+[QUESTION]:   Qual è la capitale d'Italia;[AIML]:       ;[CHATGPT]: La capitale d'Italia è Roma.
+20/05/2023 12:31:36
+[QUESTION]:   Sei dotato di intelligenza artificiale;[AIML]:       ;[CHATGPT]: Sì, sono dotato di un'intelligenza artificiale che mi permette di interagire con gli utenti e fornire loro risposte utili. Utilizzo algoritmi di apprendimento automatico e di elaborazione del linguaggio naturale per capire le richieste e fornire risposte coerenti. Tuttavia, la mia intelligenza artificiale ha ancora alcune limitazioni e potrei non essere in grado di risolvere tutte le richieste o di comprendere completamente il contesto in cui vengono posti.
+20/05/2023 12:32:44
+[QUESTION]:   Che cos'è la Maker faire;[AIML]:       ;[CHATGPT]: La Maker Faire è un grande evento che celebra i "maker", ovvero le persone che sperimentano, inventano e creano con le proprie mani. Si tratta di una fiera aperta a tutti, dove è possibile vedere le creazioni dei maker, partecipare a workshop ed eventi, e lasciarsi ispirare dalla creatività e ingegnosità dei partecipanti. La Maker Faire è nata negli Stati Uniti, ma ora si svolge in molte parti del mondo.
+20/05/2023 12:39:33
+[QUESTION]:   cos'è il;[AIML]:       ;[CHATGPT]: MARRtina è il mio nome utente come assistente virtuale. Sono un'intelligenza artificiale progettata per fornire supporto e rispondere a domande in diversi campi, dalle informazioni sui prodotti, alle prenotazioni, alle indicazioni stradali e molto altro ancora. Sono programmata per parlare italiano e fare del mio meglio per aiutare gli utenti a ottenere ciò di cui hanno bisogno.
+20/05/2023 12:40:04
+[QUESTION]:   Sai parlare inglese;[AIML]:       ;[CHATGPT]: Yes, I can speak English. How can I assist you?
+20/05/2023 12:40:16
+[QUESTION]:   Non ho capito;[AIML]:       ;[CHATGPT]: Mi dispiace, posso aiutarti con qualcosa? Sono qui per rispondere alle tue domande o fornirti informazioni su diversi argomenti.
+20/05/2023 12:40:31
+[QUESTION]:   you speak english;[AIML]:       ;[CHATGPT]: Yes, I do. How can I assist you?
+20/05/2023 12:40:42
+[QUESTION]:   Sorry;[AIML]:       ;[CHATGPT]: Sorry, I didn't understand what you mean. Could you please rephrase your request or question?
+20/05/2023 12:41:02
+[QUESTION]:   mi puoi aiutare a fare i compiti;[AIML]:       ;[CHATGPT]: Certo, posso aiutarti. Di che materia hai bisogno di aiuto?
+20/05/2023 12:41:13
+[QUESTION]:   geografia;[AIML]:       ;[CHATGPT]: Certo! Di che hai bisogno in particolare?
+20/05/2023 12:41:28
+[QUESTION]:   la Calabria;[AIML]:       ;[CHATGPT]: La Calabria è una regione dell'Italia situata nella parte meridionale della penisola, che si affaccia sul Mare Ionio e sul Mar Tirreno. È conosciuta per la sua bellezza naturale, con montagne imponenti, spiagge mozzafiato e una vasta gamma di flora e fauna. La regione è anche famosa per la sua cucina, che include specialità come la 'nduja (una pasta di salumi piccante), la salsiccia di cinghiale e le melanzane ripiene.
+20/05/2023 12:42:11
+[QUESTION]:   Ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+20/05/2023 12:42:19
+[QUESTION]:   mi aiuti a fare i compiti;[AIML]:       ;[CHATGPT]: Certo, posso aiutarti a fare i compiti. Di cosa hai bisogno aiuto specificatamente?
+20/05/2023 12:42:32
+[QUESTION]:   geografia;[AIML]:       ;[CHATGPT]: Certo, di che argomento di geografia ti interessa parlare? Potrei aiutarti a scoprire le capitali dei paesi, le caratteristiche dei continenti o le catene montuose più famose.
+20/05/2023 12:42:57
+[QUESTION]:   il Pollino;[AIML]:       ;[CHATGPT]: Il Pollino è un massiccio montuoso situato nell'Italia meridionale, al confine tra la Calabria e la Basilicata. Con i suoi 2.248 metri di altezza, il Monte Pollino è la vetta più alta del massiccio e rappresenta una delle cime più elevate dell'Appennino meridionale. La zona del Parco Nazionale del Pollino, che si estende su una superficie di circa 190.000 ettari, è una delle aree naturali protette più grandi d'Italia e ospita numerose specie animali e vegetali, alcune delle quali sono endemismi propri della zona.
+20/05/2023 12:43:29
+[QUESTION]:   Cosa sai fare;[AIML]:       parlare, ballare ,cantare. posso rispondere alle tue domande;[CHATGPT]: parlare, ballare ,cantare. posso rispondere alle tue domande
+20/05/2023 12:48:01
+[QUESTION]:   Il coccodrillo come fa;[AIML]:       ;[CHATGPT]: Il coccodrillo fa: "gnè gnè!"
+20/05/2023 12:48:10
+[QUESTION]:   la mucca come fa;[AIML]:       ;[CHATGPT]: La mucca fa il "moo".
+20/05/2023 12:48:21
+[QUESTION]:   la pecora come fa;[AIML]:       ;[CHATGPT]: La pecora fa "bè bè"! Questo verso caratteristico viene emesso dalle pecore sia per comunicare tra loro che per indicare il proprio stato emotivo. Inoltre, le pecore possono anche emettere altri suoni come mugolii o sibili per esprimere altre emozioni come la paura o la frustrazione.
+20/05/2023 12:49:35
+[QUESTION]:   conosci la tabellina del 2;[AIML]:       ;[CHATGPT]: Certo, la tabellina del 2 è: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+20/05/2023 12:49:54
+[QUESTION]:   Quanto fa 2 + 2;[AIML]:       ;[CHATGPT]: 2 + 2 fa 4.
+20/05/2023 12:50:05
+[QUESTION]:   Qual è la radice quadrata di 16;[AIML]:       ;[CHATGPT]: La radice quadrata di 16 è 4.
+24/05/2023 15:49:50
+[QUESTION]:   ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+24/05/2023 15:50:56
+[QUESTION]:   CIAO;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+24/05/2023 16:09:42
+[QUESTION]:   presentati;[AIML]:       ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme!.;[CHATGPT]: ciao ragazzi, io sono Martina e sono un robot sociale, sono nata dalla collaborazione tra robotics 3d e l'università la sapienza di Roma. dopo anni di programmazione e miglioramenti estetici, eccomi qua! Posso parlare, cantare, ballare. posso rispondere alle domande ed interagire con gli essere umani. Vi aspetto piu tardi per divertirci insieme!.
+24/05/2023 17:16:29
+[QUESTION]:   Ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+24/05/2023 17:29:00
+[QUESTION]:   conosci fabio ferrarini;[AIML]:       è colui che spetimenta tecniche innovative di programmazione estrema;[CHATGPT]: è colui che spetimenta tecniche innovative di programmazione estrema
+24/05/2023 17:32:19
+[QUESTION]:   ciao;[AIML]:       CIAO COME ?;[CHATGPT]: CIAO COME ?
+24/05/2023 17:32:24
+[QUESTION]:   come ti chiami;[AIML]:       martina il social robot;[CHATGPT]: martina il social robot
